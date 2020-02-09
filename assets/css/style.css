@@ -111,6 +111,7 @@ section.blog-area {
 .blog-content {
     box-shadow: 0 6px 16px 0 #ccc;
     padding: 41px 27px 50px 28px;
+    margin-bottom: 30px;
 }
 
 .blog-content h4 {
