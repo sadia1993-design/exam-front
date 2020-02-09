@@ -132,6 +132,7 @@ section.blog-area {
 section.testimonial-area {
     background: #ddd;
     padding: 90px 0;
+    overflow:hidden;
 }
 
 .testimonial-headline {
